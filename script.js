@@ -151,4 +151,4 @@ window.addEventListener('scroll', () => {
     });
 });
 
-console.log('Portfolio loaded - Built in the Sultan Command lab');
+console.log('Portfolio loaded - Built in the automation lab');
